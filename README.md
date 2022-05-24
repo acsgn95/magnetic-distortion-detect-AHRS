@@ -9,5 +9,4 @@ AHRS algorithm is an EKF based algorithm.
 It has 7 system states.
 [qw,qx,qy,qz,bwx,bwy,bwz]
 
-The work is expected to be completed on 21.05.2022.
 
